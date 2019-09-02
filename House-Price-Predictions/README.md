@@ -9,7 +9,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 train.csv - the training set
 test.csv - the test set
-
+submission.csv - my submission to the competition containing only ID and predicted SalePrice columns
 
 Accuracy is measured by mean absolute error.
 
